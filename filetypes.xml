@@ -7,6 +7,7 @@
       <removed_mapping ext="diff" approved="true" type="PATCH" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="patch" approved="true" type="PATCH" />
