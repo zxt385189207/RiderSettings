@@ -1,0 +1,27 @@
+<scheme name="_@user_ReSharper Light" version="142" parent_scheme="ReSharper Light">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-09-14T09:00:10</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.2.0.0</property>
+    <property name="modified">2022-09-14T10:26:01</property>
+    <property name="originalScheme">ReSharper Light</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="HYZhengYuan-55W" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <attributes>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

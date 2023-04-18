@@ -1,0 +1,20 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_EXE_PATH" value="U:\Tools\Beyond Compare 4\BComp.exe" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="U:\Tools\Beyond Compare 4\BComp.exe" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+        </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+</application>

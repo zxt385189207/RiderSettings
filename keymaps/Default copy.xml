@@ -1,0 +1,53 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="GotoSuperMethod">
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="RiderNuGetToggleToolWindowAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 7" />
+  </action>
+  <action id="RiderUnitTestTreeTextFilterAction">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="SelectIn" />
+  <action id="SmartSelect" />
+  <action id="SwitchHeaderSource" />
+  <action id="TableResult.GrowSelection" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="TurnOffF10WinShortcut" />
+  <action id="UsageFiltering.WriteAccess" />
+</keymap>

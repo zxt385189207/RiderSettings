@@ -1,0 +1,10 @@
+<application>
+  <component name="org.intellij.sdk.settings.AppSettingsState">
+    <option name="maxNumOfChars" value="20" />
+    <option name="boldEditorTab" value="true" />
+    <option name="selectedTabColor" value="-9946879" />
+    <option name="tabsColor" value="-16777216" />
+    <option name="append3Dots" value="true" />
+    <option name="fillWithSpaces" value="true" />
+  </component>
+</application>

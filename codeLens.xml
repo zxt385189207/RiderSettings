@@ -1,0 +1,39 @@
+<application>
+  <component name="CodeLensSettings" isTransfered="true">
+    <limits>
+      <map>
+        <entry key="Right" value="10" />
+        <entry key="Top" value="10" />
+      </map>
+    </limits>
+    <anchor>
+      <map>
+        <entry key="IL code" value="Right" />
+        <entry key="Unity Assets Usage" value="Right" />
+        <entry key="Unity implicit usage" value="Right" />
+        <entry key="VcsAuthorCodeLensProvider" value="Default" />
+      </map>
+    </anchor>
+    <enabled>
+      <map>
+        <entry key="Derived symbols" value="true" />
+        <entry key="IL code" value="true" />
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
+    </enabled>
+    <order>
+      <list>
+        <option value="IL code" />
+        <option value="Unity implicit usage" />
+        <option value="Unity Assets Usage" />
+        <option value="F# Inferred types" />
+        <option value="Usages" />
+        <option value="Derived symbols" />
+        <option value="VcsAuthorCodeLensProvider" />
+        <option value="Extension methods" />
+        <option value="Exposing API" />
+        <option value="Unity serialized field" />
+      </list>
+    </order>
+  </component>
+</application>

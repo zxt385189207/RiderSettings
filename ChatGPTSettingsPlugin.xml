@@ -1,0 +1,24 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="email" value="385189207@qq.com" />
+    <option name="password" value="zxt123123123" />
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="7890" />
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiIzODUxODkyMDdAcXEuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWV9LCJodHRwczovL2FwaS5vcGVuYWkuY29tL2F1dGgiOnsidXNlcl9pZCI6InVzZXItOGVTb1JLSGZMV29ZOGNobUNqOENUU2hKIn0sImlzcyI6Imh0dHBzOi8vYXV0aDAub3BlbmFpLmNvbS8iLCJzdWIiOiJhdXRoMHw2MzkxNTIxZGU1NjQ4MTFjNTU2NWU0M2UiLCJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSIsImh0dHBzOi8vb3BlbmFpLm9wZW5haS5hdXRoMGFwcC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjc5NjI3Mjc4LCJleHAiOjE2ODA4MzY4NzgsImF6cCI6IlRkSkljYmUxNldvVEh0Tjk1bnl5d2g1RTR5T282SXRHIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBtb2RlbC5yZWFkIG1vZGVsLnJlcXVlc3Qgb3JnYW5pemF0aW9uLnJlYWQgb2ZmbGluZV9hY2Nlc3MifQ.rYQwnLEPsV0l5XToA1uJ_jw0WjQ0KAFVUY801UnsRVm824vVzyCIJG4P8CDoa7JlPrkgZno_y1kPvjX0bMdW1gGzxUU-zwJhx25TaHB4Bv7sa5S9NSqvTpSF79kE0Px1k37rc1qWaBMjIgpWJeL_2sJnvrjIXK3nM-WYGQnfMukjMHnUpnq72-D7hWYytF0TMFbsSzmZQiGlTRwCwcZ_us0Hh-BMgyJcS-Tk35nZska9WwjDd5HjNiw3f-AIo7hEOTYb5FGJr4dHCVqzXTWuG3OSai-4YO3qGmLa017ghql4aSyCpdkR6l3MXRDjlKubS-fVI1FAvUK1TbTbHbfeIA" />
+    <option name="expireTime" value="2023-04-23T03:10:18.067Z" />
+    <option name="imageUrl" value="https://cdn.auth0.com/avatars/38.png" />
+    <option name="apiKey" value="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" />
+    <option name="customActionsPrefix">
+      <list>
+        <option value=" " />
+        <option value="下面我让你来充当翻译家，你的目标是把任何语言翻译成中文，要翻译得自然、流畅且专业，确保意思不变，专业词汇领域是计算机游戏开发。不需要多余的解释，我要翻译的句子是：" />
+        <option value="解释一下这段代码" />
+      </list>
+    </option>
+    <option name="enableContext" value="true" />
+    <option name="assistantApiKey" value="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" />
+    <option name="enableTokenConsumption" value="true" />
+  </component>
+</application>

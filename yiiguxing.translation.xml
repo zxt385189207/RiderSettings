@@ -1,0 +1,109 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="566" />
+    <option name="newTranslationDialogWidth" value="884" />
+    <option name="newTranslationDialogX" value="552" />
+    <option name="newTranslationDialogY" value="762" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="Stereo" />
+      <item value="This is the last data index showing in the scroller's visible area" />
+      <item value="set up a single data item containing the spacer this pushes the cells down to the bottom" />
+      <item value="The linear velocity is the velocity on one axis. The scroller should only be moving one one axix." />
+      <item value="Whether the scroller is scrolling or not" />
+      <item value="This is the velocity of the scroller." />
+      <item value="Whether the scroller should process loop jumping while being dragged. Note: if this is turned off while using a small list size, you may see elements missing while dragging near the edges of the list. Turning this value off can sometimes help with Unity adding a lot of velocity while dragging near the end of a list that loops. If this value is turned off, you can mitigate the large inertial velocity by setting the maxVelocity value to a non-zero amount (see maxVelocity)." />
+      <item value="pass in a reference to our data set with the offset for this cell" />
+      <item value="This tells the scroller the number of cells that should have room allocated. For this example, the count is the number of data elements divided by the number of cells per row (rounded up using Mathf.CeilToInt)" />
+      <item value="1) The scroller is told the data count is the number of data elements divided by the number of cells per row 2) The cell view is passed a reference to the data set with the offset index of the first cell in the row" />
+      <item value="if the sub cell is outside the bounds of the data, we pass null to the sub cell" />
+      <item value="loop through the sub cells to display their data (or disable them if they are outside the bounds of the data" />
+      <item value="set the text if the cell is inside the data range" />
+      <item value="this cell was outside the range of the data, so we disable the container. Note: We could have disable the cell gameobject instead of a child container, but that can cause problems if you are trying to get components (disabled objects are ignored)." />
+      <item value="This member tells the scroller that we need the cell views to figure out how much space to use. This is only set to true on the first pass to reduce processing required." />
+      <item value="Second Pass: reload the data once more with the newly set cell view sizes and scroller content size" />
+      <item value="his function will expand the scroller to accommodate the cells, reload the data to calculate the cell sizes, reset the scroller's size back, then reload the data once more to display the cells." />
+      <item value="This value will store the position of the detail scroller to be used when the scroller's cell view is recycled" />
+      <item value="scroller needs reloaded, so we unflag and reload the detail data" />
+      <item value="The percentage of the scroller to start at between 0 and 1, 0 being the start of the scroller" />
+      <item value="Cached reference to the layout group that handles view positioning" />
+      <item value="tell the scroller to reload now that we have the data" />
+      <item value="add the size of this cell based on what the delegate tells us to use. Also add spacing if this cell isn't the first one" />
+      <item value="set the name of the game object to the cell's data index. this is optional, but it helps up debug the objects in the scene hierarchy." />
+      <item value="first, we get a cell from the scroller by passing a prefab. if the scroller finds one it can recycle it will do so, otherwise it will create a new cell." />
+      <item value="in this example, even numbered cells are 30 pixels tall, odd numbered cells are 100 pixels tall for the vertical scroller the horizontal scroller has a fixed cell size of 200 pixels" />
+      <item value="This tells the scroller what the size of a given cell will be. Cells can be any size and do not have to be uniform. For vertical scrollers the cell size will be the height. For horizontal scrollers the cell size will be the width." />
+      <item value="Jump to a position in the scroller based on a dataIndex. This overload allows you to specify a specific offset within a cell as well. &lt;summary&gt; &lt;param name=&quot;dataIndex&quot;&gt;he data index to jump to&lt;param&gt; &lt;param name=&quot;scrollerOffset&quot;&gt;The offset from the start (top left) of the scroller in the range 0..1. Outside this range will jump to the location before or after the scroller's viewable area&lt;param&gt; &lt;param name=&quot;cellOffset&quot;&gt;The offset from the start (top left) of the cell in the range 0..1&lt;param&gt; &lt;param name=&quot;useSpacing&quot;&gt;Whether to calculate in the spacing of the scroller in the jump&lt;param&gt; &lt;param name=&quot;tweenType&quot;&gt;What easing to use for the jump&lt;param&gt; &lt;param name=&quot;tweenTime&quot;&gt;How long to interpolate to the jump point&lt;param&gt; &lt;param name=&quot;jumpComplete&quot;&gt;This delegate is fired when the jump completes&lt;param&gt;" />
+      <item value="In this example we are going to use a standard generic List. We could have used a SmallList for efficiency, but this is just a demonstration that other list types can be used." />
+      <item value="the" />
+      <item value="this demo shows how to jump to an index in the scroller. you can jump to a position before or after the cell. you can also include the spacing before or after the cell." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669012306118" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1681453141871" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="ai Config" />
+      <item value="Dialog" />
+      <item value="Image is a textured element in the UI hierarchy." />
+      <item value="Timer Trick" />
+      <item value="Or, copy the first file to persistentDataPath" />
+      <item value="Read the bytes of the first file via FileBrowserHelpers Contrary to File.ReadAllBytes, this function works on Android 10+, as well" />
+      <item value="Print paths of the selected files (FileBrowser.Result) (null, if FileBrowser.Success is false)" />
+      <item value="Dialog is closed Print whether the user has selected some filesfolders or cancelled the operation (FileBrowser.Success)" />
+      <item value="Show a load file dialog and wait for a response from user Load filefolder: both, Allow multiple selection: true Initial path: default (Documents), Initial filename: empty Title: &quot;Load File&quot;, Submit button text: &quot;Load&quot;" />
+      <item value="Show a save file dialog onSuccess event: not registered (which means this dialog is pretty useless) onCancel event: not registered Save filefolder: file, Allow multiple selection: false Initial path: &quot;C:\&quot;, Initial filename: &quot;Screenshot.png&quot; Title: &quot;Save As&quot;, Submit button text: &quot;Save&quot; FileBrowser.ShowSaveDialog( null, null, FileBrowser.PickMode.Files, false, &quot;C:\\&quot;, &quot;Screenshot.png&quot;, &quot;Save As&quot;, &quot;Save&quot; );" />
+      <item value="Add a new quick link to the browser (optional) (returns true if quick link is added successfully) It is sufficient to add a quick link just once Name: Users Path: C:\Users Icon: default (folder icon)" />
+      <item value="Set excluded file extensions (optional) (by default, .lnk and .tmp extensions are excluded) Note that when you use this function, .lnk and .tmp extensions will no longer be excluded unless you explicitly add them as parameters to the function" />
+      <item value="Set default filter that is selected when the dialog is shown (optional) Returns true if the default filter is set successfully In this case, set Images filter as the default filter" />
+      <item value="Set filters (optional) It is sufficient to set the filters just once (instead of each time before showing the file browser dialog), if all the dialogs will be using the same filters" />
+      <item value="The image was saved with the wrong image format. -or- The image was saved to the same file it was created from" />
+      <item value="you must release engine object when the app will be quit. If you need use IRtcEngine again after release ,you can be Initialize again. In this,you need call leave channel and Release engine resources." />
+      <item value="remove video canvas after user left" />
+      <item value="NERTC Token acquired" />
+      <item value="a room with the specified name is automatically created in the server provided by CommsEase.token The certification signature used in authentication (NERTC Token)." />
+      <item value="Joins a channel of audio and video call..If the specified room does not exist when you join the room," />
+      <item value="Joins a channel of audio and video call..If the specified room does not exist when you join the room, a room with the specified name is automatically created in the server provided by CommsEase.token The certification signature used in authentication (NERTC Token). Valid values: - Null. You can set the value to null in the debugging mode. We recommend you change to the default safe mode before your product is officially launched. - NERTC Token acquired. In safe mode, the acquired token must be specified. If the specified token is invalid, users are unable to join a channel. We recommend that you use the safe mode." />
+      <item value="All events are not called on main thread.If you want to update UI，you should schedule a task to the main thread. You can do it like this:" />
+      <item value="Sets local views.This method is used to set the display information about the local video. The method is applicable for only local users.Remote users are not affected." />
+      <item value="You need input your real channel name" />
+      <item value="You need request a token in the safe mode or set null in the debugging mode.For more information" />
+      <item value="You need firstly create you app and fetch your APP_KEY.For more information,visit https:doc.yunxin.163.comnertcdocsTA0ODQ2NjI?platform=unity" />
+      <item value="Set isOn without invoking onValueChanged callback." />
+      <item value="None" />
+      <item value="This is an add-on behaviour that globally maps the touch control to standard input channels, such as mouse X and mouse Y. Drop it on any game object in your scene." />
+      <item value="This component allows you to get the change in position of all specified fingers" />
+      <item value="Loop through all results and remove any that don't match the layer mask" />
+      <item value="If the specified object is set and isn't selected, then this component will do nothing" />
+      <item value="This component tells you when a finger begins touching the screen, as long as it satisfies the specified conditions." />
+      <item value="Triggered when a non-looping video has finished playing" />
+      <item value="Factor by which to increase resolution" />
+      <item value="Turn Time" />
+      <item value="Default ECM Input as used in BaseCharacterController HandleInput method. Replace this with your custom input code here..." />
+      <item value="By default, will restore character's velocity on resume (eg: restoreVelocityOnResume = true)" />
+      <item value="Transform move direction to be relative to character's current orientation" />
+      <item value="Update target direction relative to the camera view (or not if the Keep Direction option is checked)" />
+      <item value="Example of a custom character controller. This show how to create a custom character controller extending one of the included 'Base' controller. In this example, we implement an over the shoulder camera movement." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="35" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
