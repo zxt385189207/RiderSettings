@@ -49,13 +49,14 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681453141871" />
+    <option name="lastTrimTime" value="1682040307346" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Assembly" />
       <item value="ai Config" />
       <item value="Dialog" />
       <item value="Image is a textured element in the UI hierarchy." />
@@ -101,7 +102,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
