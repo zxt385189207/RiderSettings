@@ -49,13 +49,18 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682040307346" />
+    <option name="lastTrimTime" value="1683621345559" />
   </component>
   <component name="Translation.Settings">
-    <option name="translator" value="MICROSOFT" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="A total of 10 files were found that need to be downloaded" />
       <item value="Assembly" />
       <item value="ai Config" />
       <item value="Dialog" />
@@ -101,8 +106,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
