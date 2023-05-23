@@ -57,10 +57,16 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="782" />
+    <option name="newTranslationDialogWidth" value="770" />
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Delegate allocation: new 'Action&lt;string&gt;' instance creation" />
+      <item value="Boxing allocation: conversion from 'E' to 'IComparable' requires boxing of the value type" />
+      <item value="Object allocation: string concatenation (3 operands)" />
+      <item value="Boxing allocation: inherited 'ValueType.GetHashCode()' virtual method invocation over the value type instance" />
+      <item value="Boxing allocation: inherited 'Enum.ToString()' virtual method invocation over the value type instance" />
+      <item value="GetType() call is always virtual" />
       <item value="Expression is always false according to nullable reference types' annotation" />
       <item value="string" />
       <item value="A total of 10 files were found that need to be downloaded" />
@@ -105,12 +111,11 @@
       <item value="By default, will restore character's velocity on resume (eg: restoreVelocityOnResume = true)" />
       <item value="Transform move direction to be relative to character's current orientation" />
       <item value="Update target direction relative to the camera view (or not if the Keep Direction option is checked)" />
-      <item value="Example of a custom character controller. This show how to create a custom character controller extending one of the included 'Base' controller. In this example, we implement an over the shoulder camera movement." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="39" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
