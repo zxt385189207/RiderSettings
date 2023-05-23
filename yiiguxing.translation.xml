@@ -61,6 +61,8 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Object allocation: new 'List&lt;int&gt;' instance creation" />
+      <item value="constrained" />
       <item value="Delegate allocation: new 'Action&lt;string&gt;' instance creation" />
       <item value="Boxing allocation: conversion from 'E' to 'IComparable' requires boxing of the value type" />
       <item value="Object allocation: string concatenation (3 operands)" />
@@ -109,13 +111,11 @@
       <item value="Turn Time" />
       <item value="Default ECM Input as used in BaseCharacterController HandleInput method. Replace this with your custom input code here..." />
       <item value="By default, will restore character's velocity on resume (eg: restoreVelocityOnResume = true)" />
-      <item value="Transform move direction to be relative to character's current orientation" />
-      <item value="Update target direction relative to the camera view (or not if the Keep Direction option is checked)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
