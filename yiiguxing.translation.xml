@@ -49,7 +49,7 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684846272930" />
+    <option name="lastTrimTime" value="1686142185777" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -61,6 +61,7 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="A string to identify the sample in the Profiler window" />
       <item value="Object allocation: new 'List&lt;int&gt;' instance creation" />
       <item value="constrained" />
       <item value="Delegate allocation: new 'Action&lt;string&gt;' instance creation" />
@@ -110,12 +111,11 @@
       <item value="Factor by which to increase resolution" />
       <item value="Turn Time" />
       <item value="Default ECM Input as used in BaseCharacterController HandleInput method. Replace this with your custom input code here..." />
-      <item value="By default, will restore character's velocity on resume (eg: restoreVelocityOnResume = true)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
