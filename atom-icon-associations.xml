@@ -1,0 +1,26 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="C#">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.csx?$" />
+                  <option name="pattern" value=".*\.csx?$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="C#" />
+                  <option name="icon" value="/icons/files/csharp.svg" />
+                  <option name="iconColor" value="2bbd02" />
+                  <option name="folderColor" />
+                  <option name="folderIconColor" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
