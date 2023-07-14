@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="解决方案" />
-    <option name="defaultScopeName" value="解决方案" />
-    <option name="SEARCH_SCOPE" value="解决方案" />
+    <option name="customScope" value="项目 'DotNet.Hotfix'" />
+    <option name="defaultScopeName" value="项目 'DotNet.Hotfix'" />
+    <option name="SEARCH_SCOPE" value="项目 'DotNet.Hotfix'" />
   </component>
 </application>
