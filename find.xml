@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目 'Share.Analyzer'" />
-    <option name="defaultScopeName" value="项目 'Share.Analyzer'" />
-    <option name="SEARCH_SCOPE" value="项目 'Share.Analyzer'" />
+    <option name="customScope" value="解决方案" />
+    <option name="defaultScopeName" value="解决方案" />
+    <option name="SEARCH_SCOPE" value="解决方案" />
   </component>
 </application>
