@@ -49,18 +49,20 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686142185777" />
+    <option name="lastTrimTime" value="1691979910006" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="OPEN_AI" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="770" />
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="IMPORTANT! This is the NAME of your loading scene. Change it to match your scene. Make sure that the loading scene is also added to your build settings. !!!EDIT HERE!!!" />
       <item value="A string to identify the sample in the Profiler window" />
       <item value="Object allocation: new 'List&lt;int&gt;' instance creation" />
       <item value="constrained" />
@@ -110,7 +112,6 @@
       <item value="Triggered when a non-looping video has finished playing" />
       <item value="Factor by which to increase resolution" />
       <item value="Turn Time" />
-      <item value="Default ECM Input as used in BaseCharacterController HandleInput method. Replace this with your custom input code here..." />
     </histories>
     <option name="languageScores">
       <map>
