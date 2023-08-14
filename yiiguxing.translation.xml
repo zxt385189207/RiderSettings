@@ -62,6 +62,8 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="[LoadingScreenPro] No scene with buildindex &quot; + levelNum + &quot; found" />
+      <item value="Is Legal Level Index" />
       <item value="IMPORTANT! This is the NAME of your loading scene. Change it to match your scene. Make sure that the loading scene is also added to your build settings. !!!EDIT HERE!!!" />
       <item value="A string to identify the sample in the Profiler window" />
       <item value="Object allocation: new 'List&lt;int&gt;' instance creation" />
@@ -110,8 +112,6 @@
       <item value="If the specified object is set and isn't selected, then this component will do nothing" />
       <item value="This component tells you when a finger begins touching the screen, as long as it satisfies the specified conditions." />
       <item value="Triggered when a non-looping video has finished playing" />
-      <item value="Factor by which to increase resolution" />
-      <item value="Turn Time" />
     </histories>
     <option name="languageScores">
       <map>
