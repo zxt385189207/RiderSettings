@@ -62,6 +62,8 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Clamped" />
+      <item value="Elastic" />
       <item value="This class is responsible for managing the transitions between scenes that are performed in the game via a classic fade tofrom black." />
       <item value="[LoadingScreenPro] No scene with buildindex &quot; + levelNum + &quot; found" />
       <item value="Is Legal Level Index" />
@@ -110,8 +112,6 @@
       <item value="This is an add-on behaviour that globally maps the touch control to standard input channels, such as mouse X and mouse Y. Drop it on any game object in your scene." />
       <item value="This component allows you to get the change in position of all specified fingers" />
       <item value="Loop through all results and remove any that don't match the layer mask" />
-      <item value="If the specified object is set and isn't selected, then this component will do nothing" />
-      <item value="This component tells you when a finger begins touching the screen, as long as it satisfies the specified conditions." />
     </histories>
     <option name="languageScores">
       <map>
