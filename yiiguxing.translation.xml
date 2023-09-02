@@ -49,7 +49,7 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692764360186" />
+    <option name="lastTrimTime" value="1693656275862" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -62,6 +62,13 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Internal list of transitions." />
+      <item value="Actions invoked on state exit after all services has finished." />
+      <item value="Actions invoked on state enter before all services has started. Services are not executed until all enter actions are finalized." />
+      <item value="Internal list of activities to run in parallel to services." />
+      <item value="Stores the chain of clean up activities to execute on state exit." />
+      <item value="Service selegates to run async." />
+      <item value="The one state of the state machine." />
       <item value="This class is responsible for managing the transitions between scenes that are performed in the game via a classic fade tofrom black." />
       <item value="Clamped" />
       <item value="Elastic" />
@@ -105,13 +112,6 @@
       <item value="All events are not called on main thread.If you want to update UI，you should schedule a task to the main thread. You can do it like this:" />
       <item value="Sets local views.This method is used to set the display information about the local video. The method is applicable for only local users.Remote users are not affected." />
       <item value="You need input your real channel name" />
-      <item value="You need request a token in the safe mode or set null in the debugging mode.For more information" />
-      <item value="You need firstly create you app and fetch your APP_KEY.For more information,visit https:doc.yunxin.163.comnertcdocsTA0ODQ2NjI?platform=unity" />
-      <item value="Set isOn without invoking onValueChanged callback." />
-      <item value="None" />
-      <item value="This is an add-on behaviour that globally maps the touch control to standard input channels, such as mouse X and mouse Y. Drop it on any game object in your scene." />
-      <item value="This component allows you to get the change in position of all specified fingers" />
-      <item value="Loop through all results and remove any that don't match the layer mask" />
     </histories>
     <option name="languageScores">
       <map>
