@@ -62,9 +62,9 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This class is responsible for managing the transitions between scenes that are performed in the game via a classic fade tofrom black." />
       <item value="Clamped" />
       <item value="Elastic" />
-      <item value="This class is responsible for managing the transitions between scenes that are performed in the game via a classic fade tofrom black." />
       <item value="[LoadingScreenPro] No scene with buildindex &quot; + levelNum + &quot; found" />
       <item value="Is Legal Level Index" />
       <item value="IMPORTANT! This is the NAME of your loading scene. Change it to match your scene. Make sure that the loading scene is also added to your build settings. !!!EDIT HERE!!!" />
