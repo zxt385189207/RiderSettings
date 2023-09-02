@@ -62,6 +62,8 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="wait for delay pass token if this timeout is canceled by another service invokation NOTE!: if delay got canceled, the exception is thrown, hence we use .ContinueWith(...) to rid off unnecessary exception here." />
+      <item value="make sure we have cancelation token to react on we need to have new cancelation token for each service execution" />
       <item value="Internal list of transitions." />
       <item value="Actions invoked on state exit after all services has finished." />
       <item value="Actions invoked on state enter before all services has started. Services are not executed until all enter actions are finalized." />
@@ -110,8 +112,6 @@
       <item value="Joins a channel of audio and video call..If the specified room does not exist when you join the room," />
       <item value="Joins a channel of audio and video call..If the specified room does not exist when you join the room, a room with the specified name is automatically created in the server provided by CommsEase.token The certification signature used in authentication (NERTC Token). Valid values: - Null. You can set the value to null in the debugging mode. We recommend you change to the default safe mode before your product is officially launched. - NERTC Token acquired. In safe mode, the acquired token must be specified. If the specified token is invalid, users are unable to join a channel. We recommend that you use the safe mode." />
       <item value="All events are not called on main thread.If you want to update UI，you should schedule a task to the main thread. You can do it like this:" />
-      <item value="Sets local views.This method is used to set the display information about the local video. The method is applicable for only local users.Remote users are not affected." />
-      <item value="You need input your real channel name" />
     </histories>
     <option name="languageScores">
       <map>
