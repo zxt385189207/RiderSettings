@@ -49,7 +49,7 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693656275862" />
+    <option name="lastTrimTime" value="1696495624820" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -62,6 +62,7 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Utility" />
       <item value="Interprets the state machine." />
       <item value="uploading Traffic Light Health" />
       <item value="wait for delay pass token if this timeout is canceled by another service invokation NOTE!: if delay got canceled, the exception is thrown, hence we use .ContinueWith(...) to rid off unnecessary exception here." />
@@ -111,7 +112,6 @@
       <item value="remove video canvas after user left" />
       <item value="NERTC Token acquired" />
       <item value="a room with the specified name is automatically created in the server provided by CommsEase.token The certification signature used in authentication (NERTC Token)." />
-      <item value="Joins a channel of audio and video call..If the specified room does not exist when you join the room," />
     </histories>
     <option name="languageScores">
       <map>
