@@ -62,6 +62,7 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Set the sleep timeout to whatever the user has specified in the system settings" />
       <item value="Utility" />
       <item value="Interprets the state machine." />
       <item value="uploading Traffic Light Health" />
@@ -111,7 +112,6 @@
       <item value="you must release engine object when the app will be quit. If you need use IRtcEngine again after release ,you can be Initialize again. In this,you need call leave channel and Release engine resources." />
       <item value="remove video canvas after user left" />
       <item value="NERTC Token acquired" />
-      <item value="a room with the specified name is automatically created in the server provided by CommsEase.token The certification signature used in authentication (NERTC Token)." />
     </histories>
     <option name="languageScores">
       <map>
