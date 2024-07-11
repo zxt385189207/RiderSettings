@@ -62,6 +62,7 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="negative" />
       <item value="Grade Param Data" />
       <item value="Set the sleep timeout to whatever the user has specified in the system settings" />
       <item value="Utility" />
@@ -111,7 +112,6 @@
       <item value="Set filters (optional) It is sufficient to set the filters just once (instead of each time before showing the file browser dialog), if all the dialogs will be using the same filters" />
       <item value="The image was saved with the wrong image format. -or- The image was saved to the same file it was created from" />
       <item value="you must release engine object when the app will be quit. If you need use IRtcEngine again after release ,you can be Initialize again. In this,you need call leave channel and Release engine resources." />
-      <item value="remove video canvas after user left" />
     </histories>
     <option name="languageScores">
       <map>
