@@ -56,6 +56,7 @@
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
@@ -63,6 +64,15 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ボタンBが押されたときの処理" />
+      <item value="なにか各種非同期な処理があったとする" />
+      <item value="非同期処理にゲートを連動させる" />
+      <item value="ボタンAが押されたときの処理" />
+      <item value="状態を可視化する" />
+      <item value="ゲートがfalseのときはボタンを押せない状態にする" />
+      <item value="状態表示用のテキスト" />
+      <item value="ボタン制御用のReactive Property（ゲート）" />
+      <item value="各種ボタン" />
       <item value="Observableの寿命をこのMono Behaviourに紐付ける" />
       <item value="child Objectに紐づいたOn Collision EnterをObservableとして取得" />
       <item value="negative" />
@@ -104,22 +114,13 @@
       <item value="Image is a textured element in the UI hierarchy." />
       <item value="Timer Trick" />
       <item value="Or, copy the first file to persistentDataPath" />
-      <item value="Read the bytes of the first file via FileBrowserHelpers Contrary to File.ReadAllBytes, this function works on Android 10+, as well" />
-      <item value="Print paths of the selected files (FileBrowser.Result) (null, if FileBrowser.Success is false)" />
-      <item value="Dialog is closed Print whether the user has selected some filesfolders or cancelled the operation (FileBrowser.Success)" />
-      <item value="Show a load file dialog and wait for a response from user Load filefolder: both, Allow multiple selection: true Initial path: default (Documents), Initial filename: empty Title: &quot;Load File&quot;, Submit button text: &quot;Load&quot;" />
-      <item value="Show a save file dialog onSuccess event: not registered (which means this dialog is pretty useless) onCancel event: not registered Save filefolder: file, Allow multiple selection: false Initial path: &quot;C:\&quot;, Initial filename: &quot;Screenshot.png&quot; Title: &quot;Save As&quot;, Submit button text: &quot;Save&quot; FileBrowser.ShowSaveDialog( null, null, FileBrowser.PickMode.Files, false, &quot;C:\\&quot;, &quot;Screenshot.png&quot;, &quot;Save As&quot;, &quot;Save&quot; );" />
-      <item value="Add a new quick link to the browser (optional) (returns true if quick link is added successfully) It is sufficient to add a quick link just once Name: Users Path: C:\Users Icon: default (folder icon)" />
-      <item value="Set excluded file extensions (optional) (by default, .lnk and .tmp extensions are excluded) Note that when you use this function, .lnk and .tmp extensions will no longer be excluded unless you explicitly add them as parameters to the function" />
-      <item value="Set default filter that is selected when the dialog is shown (optional) Returns true if the default filter is set successfully In this case, set Images filter as the default filter" />
-      <item value="Set filters (optional) It is sufficient to set the filters just once (instead of each time before showing the file browser dialog), if all the dialogs will be using the same filters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="47" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="JAPANESE" value="14" />
       </map>
     </option>
   </component>

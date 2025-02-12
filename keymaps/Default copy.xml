@@ -2,6 +2,28 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
     <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="$TerminalTranslationAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="$ToggleQuickDocTranslationAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="$TranslateAndReplaceAction" />
+  <action id="$TranslateQuickDocAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="$TranslateRenderedDocSelectionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateHierarchyToolWindow">
@@ -32,8 +54,14 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoSuperMethod">
     <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="PinBalloonAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="RiderNuGetToggleToolWindowAction">
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
@@ -43,6 +71,7 @@
   </action>
   <action id="SelectIn" />
   <action id="SmartSelect" />
+  <action id="Space.Review.CreateDiffComment" />
   <action id="SwitchHeaderSource" />
   <action id="TableResult.GrowSelection" />
   <action id="ToggleZenMode">
@@ -50,4 +79,19 @@
   </action>
   <action id="TurnOffF10WinShortcut" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="编辑器EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="编辑器TerminalTranslationAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="编辑器ToggleQuickDocTranslationAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="编辑器TranslateQuickDocAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="编辑器TranslateRenderedDocSelectionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
 </keymap>
