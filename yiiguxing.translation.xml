@@ -52,10 +52,10 @@
     <option name="lastTrimTime" value="1739364136320" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="CHINESE" />
+    <option name="primaryLanguage" value="JAPANESE" />
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="targetLanguageSelection" value="LAST" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
@@ -64,6 +64,7 @@
     <option name="newTranslationDialogY" value="450" />
     <histories>
       <item value="Observableの寿命をこのMono Behaviourに紐付ける" />
+      <item value="child Objectに紐づいたOn Collision EnterをObservableとして取得" />
       <item value="negative" />
       <item value="Grade Param Data" />
       <item value="Set the sleep timeout to whatever the user has specified in the system settings" />
@@ -112,14 +113,13 @@
       <item value="Set excluded file extensions (optional) (by default, .lnk and .tmp extensions are excluded) Note that when you use this function, .lnk and .tmp extensions will no longer be excluded unless you explicitly add them as parameters to the function" />
       <item value="Set default filter that is selected when the dialog is shown (optional) Returns true if the default filter is set successfully In this case, set Images filter as the default filter" />
       <item value="Set filters (optional) It is sufficient to set the filters just once (instead of each time before showing the file browser dialog), if all the dialogs will be using the same filters" />
-      <item value="The image was saved with the wrong image format. -or- The image was saved to the same file it was created from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="45" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="3" />
       </map>
     </option>
   </component>
