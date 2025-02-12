@@ -49,19 +49,21 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696495624820" />
+    <option name="lastTrimTime" value="1739364136320" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="OPEN_AI" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="770" />
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Observableの寿命をこのMono Behaviourに紐付ける" />
       <item value="negative" />
       <item value="Grade Param Data" />
       <item value="Set the sleep timeout to whatever the user has specified in the system settings" />
@@ -111,13 +113,13 @@
       <item value="Set default filter that is selected when the dialog is shown (optional) Returns true if the default filter is set successfully In this case, set Images filter as the default filter" />
       <item value="Set filters (optional) It is sufficient to set the filters just once (instead of each time before showing the file browser dialog), if all the dialogs will be using the same filters" />
       <item value="The image was saved with the wrong image format. -or- The image was saved to the same file it was created from" />
-      <item value="you must release engine object when the app will be quit. If you need use IRtcEngine again after release ,you can be Initialize again. In this,you need call leave channel and Release engine resources." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="1" />
+        <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
