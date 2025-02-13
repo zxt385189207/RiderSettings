@@ -64,6 +64,19 @@
     <option name="newTranslationDialogX" value="823" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Live Listが便利" />
+      <item value="ラムダ式から外部変数をキャプチャさせない" />
+      <item value="Unityの挙動とは独立した時間計測 Unityが動作を停止していた場合でも時間が進む" />
+      <item value="Time.scaleの影響を受けないが、 Unityが動作を停止していた場合は時間が進まない" />
+      <item value="Time.scaleの影響を受ける Unityが動作を停止していた場合は時間が進まない" />
+      <item value="Fixed Updateと同じタイミングで実行される" />
+      <item value="Observable.EveryUpdateは一定のフレーム間隔でメッセージを発行する どのフレームタイミングでメッセージ発行するかを指定できる" />
+      <item value="スペースキーが押されている間、一定間隔で弾を打つ" />
+      <item value="テスト対象" />
+      <item value="Publish()した値を一定時間後に出力するだけのObservable" />
+      <item value="AwaitOperation.Switchは非同期処理中に次のメッセージが来たら 今実行中の非同期処理をキャンセルして新しい非同期処理を開始する" />
+      <item value="衝突したら３秒間無敵フラグをTrueにする 無敵中に再衝突した場合はそこからまた３秒数える" />
+      <item value="configure AwaitをTrueにすること" />
       <item value="ラムダ式で待ち受け。ただこれだとキャンセルができない" />
       <item value="とだいたい同じ" />
       <item value="と同じ" />
@@ -101,26 +114,13 @@
       <item value="Elastic" />
       <item value="[LoadingScreenPro] No scene with buildindex &quot; + levelNum + &quot; found" />
       <item value="Is Legal Level Index" />
-      <item value="IMPORTANT! This is the NAME of your loading scene. Change it to match your scene. Make sure that the loading scene is also added to your build settings. !!!EDIT HERE!!!" />
-      <item value="A string to identify the sample in the Profiler window" />
-      <item value="Object allocation: new 'List&lt;int&gt;' instance creation" />
-      <item value="constrained" />
-      <item value="Delegate allocation: new 'Action&lt;string&gt;' instance creation" />
-      <item value="Boxing allocation: conversion from 'E' to 'IComparable' requires boxing of the value type" />
-      <item value="Object allocation: string concatenation (3 operands)" />
-      <item value="Boxing allocation: inherited 'ValueType.GetHashCode()' virtual method invocation over the value type instance" />
-      <item value="Boxing allocation: inherited 'Enum.ToString()' virtual method invocation over the value type instance" />
-      <item value="GetType() call is always virtual" />
-      <item value="Expression is always false according to nullable reference types' annotation" />
-      <item value="string" />
-      <item value="A total of 10 files were found that need to be downloaded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
+        <entry key="CHINESE" value="50" />
         <entry key="ENGLISH" value="49" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="20" />
+        <entry key="JAPANESE" value="34" />
       </map>
     </option>
   </component>
