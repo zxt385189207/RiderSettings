@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Await" />
+      <item value="await unsafe on completed" />
       <item value="Waits for the timer to switch to next state." />
       <item value="show the red light picture" />
       <item value="wait for the red light timer" />
@@ -119,13 +121,11 @@
       <item value="Internal list of transitions." />
       <item value="Actions invoked on state exit after all services has finished." />
       <item value="Actions invoked on state enter before all services has started. Services are not executed until all enter actions are finalized." />
-      <item value="Internal list of activities to run in parallel to services." />
-      <item value="Stores the chain of clean up activities to execute on state exit." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="50" />
-        <entry key="CHINESE_SIMPLIFIED" value="6" />
+        <entry key="CHINESE_SIMPLIFIED" value="10" />
         <entry key="ENGLISH" value="50" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="35" />
