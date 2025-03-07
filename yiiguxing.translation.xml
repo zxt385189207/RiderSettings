@@ -49,22 +49,33 @@
     <option name="lastTrimTime" value="1669012306118" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1739364136320" />
+    <option name="lastTrimTime" value="1741353792772" />
+  </component>
+  <component name="Translation.OpenAISettings">
+    <option name="OPEN_AI">
+      <open-ai>
+        <option name="API_PATH" value="/chat/completions" />
+        <option name="CUSTOM_MODEL" value="deepseek-chat" />
+        <option name="ENDPOINT" value="https://api.deepseek.com" />
+        <option name="USE_CUSTOM_MODEL" value="true" />
+      </open-ai>
+    </option>
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="JAPANESE" />
+    <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
-    <option name="showReplacementActionInContextMenu" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="OPEN_AI" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="770" />
-    <option name="newTranslationDialogX" value="823" />
-    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Waits for the timer to switch to next state." />
+      <item value="show the red light picture" />
+      <item value="wait for the red light timer" />
+      <item value="wait for yellow light timer" />
+      <item value="get directory name" />
       <item value="To Observable" />
       <item value="Cancellation Tokenは準備しておく" />
       <item value="Live Listが便利" />
@@ -110,15 +121,11 @@
       <item value="Actions invoked on state enter before all services has started. Services are not executed until all enter actions are finalized." />
       <item value="Internal list of activities to run in parallel to services." />
       <item value="Stores the chain of clean up activities to execute on state exit." />
-      <item value="Service selegates to run async." />
-      <item value="The one state of the state machine." />
-      <item value="This class is responsible for managing the transitions between scenes that are performed in the game via a classic fade tofrom black." />
-      <item value="Clamped" />
-      <item value="Elastic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="50" />
+        <entry key="CHINESE_SIMPLIFIED" value="6" />
         <entry key="ENGLISH" value="50" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="35" />
