@@ -1,5 +1,6 @@
 <application>
   <component name="co.fitten.llmintellij.LlmSettingsState">
+    <option name="enabled_global" value="false" />
     <option name="userData">
       <UserData>
         <option name="apiKey" value="4867227c-6742-4c79-bccb-1f102c96322e" />
