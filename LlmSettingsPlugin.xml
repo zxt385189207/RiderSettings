@@ -1,5 +1,11 @@
 <application>
   <component name="co.fitten.llmintellij.LlmSettingsState">
+    <option name="completionSuffixes">
+      <list>
+        <option value="cs" />
+      </list>
+    </option>
+    <option name="enable_suffixes" value="false" />
     <option name="enabled_global" value="false" />
     <option name="userData">
       <UserData>
